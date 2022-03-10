@@ -1,1 +1,3 @@
-# Brawl-Stars-decompiled-source
+# V36 c++ source
+This source is created by ida
+:ukraine:
